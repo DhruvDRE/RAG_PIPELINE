@@ -84,3 +84,38 @@ faiss-cpu==1.7.4
 torch==2.0.1
 numpy==1.26.0
 ```
+
+
+# How to Set Up on GitHub
+
+Create a New Repository:
+
+Go to GitHub.com, log in, and click "New Repository."
+Name it rag-pipeline, add a description, and initialize it with a README (optional).
+Clone the Repository Locally:
+
+```bash
+git clone https://github.com/your-username/rag-pipeline.git
+cd rag-pipeline
+```
+Create the Files:
+
+Copy the code above into the respective files using a text editor (e.g., VS Code).
+
+Create the data/ folder and add sample.txt.
+
+Commit and Push:
+```bash
+git add .
+git commit -m "Initial commit: RAG pipeline implementation"
+git push origin main
+```
+Test Locally:
+Install dependencies: 
+```bash
+pip install -r requirements.txt
+```
+Run the pipeline: 
+```bash
+python main.py
+```
