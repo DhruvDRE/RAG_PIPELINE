@@ -52,3 +52,35 @@ A simple Retrieval-Augmented Generation (RAG) pipeline built with Python, FAISS,
    git clone https://github.com/your-username/rag-pipeline.git
    cd rag-pipeline
    ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Add your documents to the data/ folder.
+4. Run the pipeline:
+   ```bash
+   python main.py
+   ```
+# Dependencies
+
+See requirements.txt for a full list.
+
+# Usage
+
+Place text files in the data/ folder.
+
+Run main.py to process documents and query the pipeline.
+
+
+---
+
+### File 2: `requirements.txt`
+**Purpose**: Lists the Python dependencies.
+
+```text
+transformers==4.35.0
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+torch==2.0.1
+numpy==1.26.0
+```
