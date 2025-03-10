@@ -1,0 +1,51 @@
+This is a sample document. Retrieval-Augmented Generation (RAG) combines retrieval and generation to answer questions effectively.
+
+Sample Document for RAG Pipeline
+
+Introduction
+
+Retrieval-Augmented Generation (RAG) is an advanced natural language processing (NLP) approach that combines information retrieval with generative models to improve response accuracy and relevance. This document serves as a sample input for a RAG pipeline, containing structured and unstructured information.
+
+Section 1: General Knowledge
+
+Artificial Intelligence (AI) is a field of computer science that focuses on creating intelligent agents capable of performing tasks that typically require human intelligence. These tasks include natural language understanding, image recognition, and decision-making.
+
+Section 2: Structured Data
+
+Technology
+
+Description
+
+Example Use Case
+
+Machine Learning
+
+Algorithms that learn from data
+
+Fraud detection
+
+Deep Learning
+
+Neural networks with multiple layers
+
+Image classification
+
+Natural Language Processing
+
+Techniques for language understanding
+
+Chatbots and virtual assistants
+
+Section 3: Unstructured Data
+
+Unstructured data refers to information that does not have a predefined format. Examples include emails, social media posts, and multimedia content. Unlike structured data, which fits neatly into tables, unstructured data requires advanced techniques such as vector embeddings for effective processing.
+
+Section 4: Sample Query-Response Pair
+
+Query: What is deep learning?
+
+Response: Deep learning is a subset of machine learning that utilizes artificial neural networks with multiple layers to learn representations of data. It is widely used in applications such as image and speech recognition.
+
+Conclusion
+
+This document exemplifies the type of content processed in a RAG pipeline. By combining structured and unstructured data, a RAG-based system can generate more informed and context-aware responses.
