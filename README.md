@@ -19,15 +19,25 @@ Main Script: Tie everything together.
 rag-pipeline/
 
 │
+
 ├── README.md              # Project description and setup instructions
+
 ├── requirements.txt       # Dependencies
+
 ├── data/                  # Folder for sample documents
-│   └── sample.txt         # Example document
+
+│      └── sample.txt         # Example document
+
 ├── ingestion.py           # Step 1: Load and preprocess documents
+
 ├── embeddings.py          # Step 2: Generate embeddings
+
 ├── vector_store.py        # Step 3: Store embeddings in FAISS
+
 ├── retriever.py           # Step 4: Retrieve relevant documents
+
 ├── generator.py           # Step 5: Generate answers
+
 └── main.py                # Step 6: Main script to run the pipeline
 
 
