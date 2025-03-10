@@ -89,14 +89,12 @@ numpy==1.26.0
 
 # How to Set Up on GitHub
 
-Create a New Repository:
+Initialize pipeline with a README.
 
-Go to GitHub.com, log in, and click "New Repository."
-Name it rag-pipeline, add a description, and initialize it with a README (optional).
 Clone the Repository Locally:
 
 ```bash
-git clone https://github.com/your-username/rag-pipeline.git
+git clone https://github.com/DhruvDRE/RAG_PIPELINE.git
 cd rag-pipeline
 ```
 Create the Files:
