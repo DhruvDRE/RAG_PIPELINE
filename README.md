@@ -74,7 +74,8 @@ Run main.py to process documents and query the pipeline.
 
 ---
 
-### File 2: `requirements.txt`
+### Create File : `requirements.txt`
+
 **Purpose**: Lists the Python dependencies.
 
 ```text
